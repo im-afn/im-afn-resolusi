@@ -3,4 +3,6 @@ RENCANA HARIAN IM-AFN
   * Menyapu halaman
   * Merawat tanaman
 - Buang sampah setiap hari
+  * Membuat tempat pemisah sampah
+  * Memisahkan sampah plantik, organik dll
 - Bekerja tepat waktu
