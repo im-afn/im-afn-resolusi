@@ -10,3 +10,5 @@ RENCANA HARIAN IM-AFN
 - Bekerja tepat waktu
   * Membuka toko pada jam buka
 - Memberi makan burung
+  * Mandiin burung
+  * Bersihin kandangnya
